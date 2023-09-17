@@ -271,3 +271,22 @@ all_posts = {
     ]
 }
 
+works = {
+    "title": "Hi! Sosi Popku!",
+    "description": "Work with me",
+    "image": "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+    "items": [
+        {
+            "title": "Unnamed Review 0331",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.",
+            "image": "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+            "rating": 5
+        },
+        {
+            "title": "Unnamed Review 0331",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.",
+            "image": "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+            "rating": 5
+        },
+    ]
+}
