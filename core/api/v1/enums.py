@@ -271,6 +271,397 @@ all_posts = {
             ],
             "datetime": "2018-03-12 09:55:22"
         },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
+        {
+            "id": "0123",
+            "type": "gallery",
+            "title": "Promo Block 0123",
+            "url": "/pictures/0331",
+            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
+                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
+                           "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
+                           "dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut "
+                           "labore et dolore magna aliqua.",
+            "images": [
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
+                "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg"
+            ],
+            "datetime": "2018-03-12 09:55:22"
+        },
     ]
 }
 
