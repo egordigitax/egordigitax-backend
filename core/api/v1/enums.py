@@ -233,7 +233,7 @@ all_posts = {
             "id": "0121",
             "type": "banner",
             "title": "Promo Block 0121",
-            "url": "/items/0331",
+            "url": "/items/0131",
             "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
                            "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
                            "magna aliqua.",
@@ -244,7 +244,7 @@ all_posts = {
             "id": "0122",
             "type": "story-gallery",
             "title": "Promo Block 0122",
-            "url": "/items/0331",
+            "url": "/items/0132",
             "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
                            "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
                            "magna aliqua.",
@@ -258,7 +258,7 @@ all_posts = {
             "id": "0123",
             "type": "gallery",
             "title": "Promo Block 0123",
-            "url": "/pictures/0331",
+            "url": "https://vk.com/egordigitax",
             "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
                            "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
                            "magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et "
