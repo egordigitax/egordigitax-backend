@@ -232,24 +232,21 @@ all_posts = {
         {
             "id": "0121",
             "type": "banner",
-            "title": "Promo Block 0121",
+            "title": "",
             "url": "/items/0131",
-            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
-                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
-                           "magna aliqua.",
+            "description": "",
             "images": ["https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg"],
             "datetime": "2018-03-12 09:55:22"
         },
         {
             "id": "0122",
             "type": "story-gallery",
-            "title": "Promo Block 0122",
+            "title": "",
             "url": "/items/0132",
-            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna "
-                           "aliqua. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore "
-                           "magna aliqua.",
+            "description": "",
             "images": [
                 "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
+                "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg",
                 "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-55.jpg"
             ],
             "datetime": "2018-03-12 09:55:22"
