@@ -103,7 +103,7 @@ all_pictures = {
         {
             "id": "0121",
             "title": "Picture 0121",
-            "description": "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+            "description": "Lorem ipsum dolor sit amet, sed do.",
             "images": [
                 "https://storage.yandexcloud.net/egordigitax/qDUvJVCLlq0.jpg",
                 "https://storage.yandexcloud.net/egordigitax/photo_2023-08-03_23-45-18%20%282%29.jpg",
@@ -125,7 +125,7 @@ all_pictures = {
         {
             "id": "0123",
             "title": "Picture 0123",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor labore et dolore magna aliqua. ",
+            "description": "Lorem ipsum dolor sit amet, sed do.",
             "images": ["https://storage.yandexcloud.net/egordigitax/r7SDtAVQcnk.jpg"],
             "datetime": "2018-07-12 09:55:22"
         },
