@@ -663,7 +663,7 @@ all_posts = {
 }
 
 works = {
-    "title": "Hi! Sosi Popku!",
+    "title": "Digital nerd, art director, designer, entrepreneur, engineer.",
     "description": "Work with me",
     "image": "https://storage.yandexcloud.net/egordigitax/photo_2023-04-01_19-30-56.jpg",
     "items": [
