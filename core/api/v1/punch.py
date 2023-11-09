@@ -3,7 +3,7 @@ from fastapi.responses import FileResponse
 
 
 from core.api.v1.enums import all_posts
-from core.services.generator import generate_square
+from core.services.generator import generate_square, generate_square_pixels
 
 punch_router = APIRouter(prefix="/punch")
 
@@ -12,6 +12,10 @@ bearer = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJtYXJsb3diZWF0cyIsImF1dGhvcml0aWVzIjpbI
 @punch_router.get("/{char_id}")
 def generate_char(char_id: int):
     return FileResponse(generate_square(char_id, bearer))
+
+@punch_router.get("/png/{char_id}")
+def generate_char(char_id: int):
+    return FileResponse(generate_square_pixels(char_id, bearer))
 
 @punch_router.get("/update_bearer/{bearer_token}")
 def generate_char(bearer_token: str):
